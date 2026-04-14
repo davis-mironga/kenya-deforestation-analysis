@@ -10,7 +10,7 @@
 
 Kenya has lost roughly 40% of its forest cover since independence — from 10% of land area in 1963 to around 6% today. This project uses 24 years of satellite data cross-referenced with UN and World Bank institutional data to answer four concrete questions about that loss.
 
-Built by **Davis Mironga** — formerly with Kenya Forest Service, field researcher in Baringo and Tana River with KOKO Networks, and current intern at NEMA running national climate campaigns.
+Built by **Davis Mironga** — 
 
 ---
 
